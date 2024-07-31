@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@200..800&display=swap');
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: "Courier Prime", cursive
+}
+
+:root {
+    font-size: 16px;
+}
+
+body {
+    background-image: url(/frontend/imgs/background.png);
+    color: #f2f2f2;
+}
