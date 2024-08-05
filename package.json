@@ -1,6 +1,13 @@
 {
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "ws": "^8.18.0"
-  }
+  "name": "chat-ao-vivo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
